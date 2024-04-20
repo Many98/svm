@@ -1,0 +1,6 @@
+*.json
+*.Rhistory
+*.pdf
+.idea/
+git_token
+.ipynb_checkpoints
